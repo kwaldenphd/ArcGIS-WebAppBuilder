@@ -1,5 +1,25 @@
 # ArcGIS Web App Builder
 
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+Building an ArcGIS Online Web Application by <a href="dlac.grinnell.edu" rel="cc:attributionURL">Katherine Walden, Digital Liberal Arts Specialist (Grinnell College)</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+# Table of Contents
+
+- [What Is An ArcGIS Web App?](#what-is-an-arcgis-web-app)
+- [Creating a Web App](#creating-a-web-app)
+  * [Create an App](#create-an-app)
+    * [Create an App Starting from Map Viewer](#create-an-app-starting-from-map-viewer)
+    * [Create an App Starting from the Content Page](#create-an-app-starting-from-the-content-page)
+    * [Create an App Starting from the Item Page](#create-an-app-starting-from-the-item-page)
+  * [Choose a Theme](#choose-a-theme)
+    * [Available Themes](#available-themes)
+    * [Theme Style](#theme-style)
+    * [Theme Layout](#theme-layout)
+  * [Add Widgets](#add-widgets)
+    * [Off-Panel Widgets](#off-panel-widgets)
+    * [In-Panel Widgets](#-in-panel-widgets)
+    * [Commonly-Used Widgets](#commonly-used-widgets)
+
 # What Is An ArcGIS Web App?
 
 Web AppBuilder for ArcGIS is an intuitive what-you-see-is-what-you-get (WYSIWYG) application that allows you to build 2D and 3D web apps without writing a single line of code. It includes powerful tools to configure fully featured HTML apps. As you add your map and tools, you can see them in the app, and use them right away.
@@ -143,8 +163,6 @@ When you build 2D apps, the available layouts vary depending on the theme select
 When you build 3D apps, each theme has two layouts for desktop only.
 
 Content in this section was adapted from [“Create Apps: Themes” (ArcGIS.com)](https://doc.arcgis.com/en/web-appbuilder/create-apps/themes-tab.htm)
-
-## Select a Map or Scene
 
 ## Add Widgets
 
